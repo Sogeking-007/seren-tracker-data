@@ -1,0 +1,14 @@
+{
+  "reminders": [
+    {
+      "type": "weekly",
+      "message": "Weekly reset in 5 minutes! Final snapshot time.",
+      "time": "05:25",
+      "day": "thursday",
+      "interval_mins": 480,
+      "active": true,
+      "last_fired": null,
+      "fixed_id": "reset_reminder"
+    }
+  ]
+}
