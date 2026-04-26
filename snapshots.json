@@ -37991,6 +37991,611 @@
                     "level": 38395
                 }
             ]
+        },
+        {
+            "timestamp": "2026-04-26T08:28:23.603837+00:00",
+            "entries": [
+                {
+                    "rank": 1,
+                    "clan_name": "[\ud83d\udc10] Serendipity",
+                    "score": 1579125,
+                    "level": 1579125
+                },
+                {
+                    "rank": 2,
+                    "clan_name": "[\ud83c\udf00] Maelstrom",
+                    "score": 1195660,
+                    "level": 1195660
+                },
+                {
+                    "rank": 3,
+                    "clan_name": "[\ud83c\udf0a] Tidehunters",
+                    "score": 1147745,
+                    "level": 1147745
+                },
+                {
+                    "rank": 4,
+                    "clan_name": "[\ud83e\udeb8] Coral Reef",
+                    "score": 718665,
+                    "level": 718665
+                },
+                {
+                    "rank": 5,
+                    "clan_name": "[\ud83d\udc10] Serendipity III",
+                    "score": 678830,
+                    "level": 678830
+                },
+                {
+                    "rank": 6,
+                    "clan_name": "[\ud83c\udf00] Maelstrom Leviathan",
+                    "score": 599445,
+                    "level": 599445
+                },
+                {
+                    "rank": 7,
+                    "clan_name": "[\ud83d\udc10] Serendipity II",
+                    "score": 592780,
+                    "level": 592780
+                },
+                {
+                    "rank": 8,
+                    "clan_name": "[\ud83e\udd89] Wannabe Good",
+                    "score": 406780,
+                    "level": 406780
+                },
+                {
+                    "rank": 9,
+                    "clan_name": "[\ud83c\udf00] Maelstrom Abyss",
+                    "score": 329315,
+                    "level": 329315
+                },
+                {
+                    "rank": 10,
+                    "clan_name": "[\ud83d\udd31] Usurper",
+                    "score": 315560,
+                    "level": 315560
+                },
+                {
+                    "rank": 11,
+                    "clan_name": "[\ud83d\udc10] Serendipity IV",
+                    "score": 308650,
+                    "level": 308650
+                },
+                {
+                    "rank": 12,
+                    "clan_name": "[\ud83c\udf0a] Tidehunters Surge",
+                    "score": 281055,
+                    "level": 281055
+                },
+                {
+                    "rank": 13,
+                    "clan_name": "[\u231b\ufe0f] Temporals",
+                    "score": 239300,
+                    "level": 239300
+                },
+                {
+                    "rank": 14,
+                    "clan_name": "[\ud83d\udd31] Usurper 6",
+                    "score": 237720,
+                    "level": 237720
+                },
+                {
+                    "rank": 15,
+                    "clan_name": "[\u2b50] V Gaming",
+                    "score": 228190,
+                    "level": 228190
+                },
+                {
+                    "rank": 16,
+                    "clan_name": "[\ud83d\udc10] Serendipity V",
+                    "score": 215485,
+                    "level": 215485
+                },
+                {
+                    "rank": 17,
+                    "clan_name": "[\ud83d\udc10] Serendipity VI",
+                    "score": 213545,
+                    "level": 213545
+                },
+                {
+                    "rank": 18,
+                    "clan_name": "[\ud83c\udf0a] Tidehunters Depths",
+                    "score": 212995,
+                    "level": 212995
+                },
+                {
+                    "rank": 19,
+                    "clan_name": "[\ud83c\udf0a] Tidehunters Torrents",
+                    "score": 201450,
+                    "level": 201450
+                },
+                {
+                    "rank": 20,
+                    "clan_name": "[\ud83d\udc10] Serendipity VII",
+                    "score": 195185,
+                    "level": 195185
+                },
+                {
+                    "rank": 21,
+                    "clan_name": "[GBG] Gall bladder",
+                    "score": 192065,
+                    "level": 192065
+                },
+                {
+                    "rank": 22,
+                    "clan_name": "[\ud83c\udf00\ud83d\ude80] Federation",
+                    "score": 175700,
+                    "level": 175700
+                },
+                {
+                    "rank": 23,
+                    "clan_name": "[\ud83d\udc10] Serendipity XIV",
+                    "score": 163840,
+                    "level": 163840
+                },
+                {
+                    "rank": 24,
+                    "clan_name": "[\ud83d\udc10] Serendipity IX",
+                    "score": 163840,
+                    "level": 163840
+                },
+                {
+                    "rank": 25,
+                    "clan_name": "[SABA] Anchorlight",
+                    "score": 160195,
+                    "level": 160195
+                },
+                {
+                    "rank": 26,
+                    "clan_name": "Pishereal",
+                    "score": 134845,
+                    "level": 134845
+                },
+                {
+                    "rank": 27,
+                    "clan_name": "IDPRO",
+                    "score": 134795,
+                    "level": 134795
+                },
+                {
+                    "rank": 28,
+                    "clan_name": "[\ud83c\udf0a] Tidehunters Crest",
+                    "score": 131175,
+                    "level": 131175
+                },
+                {
+                    "rank": 29,
+                    "clan_name": "[\u00ae\ufe0f] randy",
+                    "score": 128505,
+                    "level": 128505
+                },
+                {
+                    "rank": 30,
+                    "clan_name": "[\ud83d\udc10] Serendipity I",
+                    "score": 127160,
+                    "level": 127160
+                },
+                {
+                    "rank": 31,
+                    "clan_name": "[\ud83d\udd31] Usurper 2",
+                    "score": 123650,
+                    "level": 123650
+                },
+                {
+                    "rank": 32,
+                    "clan_name": "[Div12] Div 12 II",
+                    "score": 120060,
+                    "level": 120060
+                },
+                {
+                    "rank": 33,
+                    "clan_name": "ribalka family",
+                    "score": 107240,
+                    "level": 107240
+                },
+                {
+                    "rank": 34,
+                    "clan_name": "[\ud83d\udd31] Usurper 4",
+                    "score": 102360,
+                    "level": 102360
+                },
+                {
+                    "rank": 35,
+                    "clan_name": "[\u231b\ufe0f] Temporals II",
+                    "score": 99245,
+                    "level": 99245
+                },
+                {
+                    "rank": 36,
+                    "clan_name": "[\ud83d\uded7] LXP",
+                    "score": 98785,
+                    "level": 98785
+                },
+                {
+                    "rank": 37,
+                    "clan_name": "NPC Clan",
+                    "score": 96730,
+                    "level": 96730
+                },
+                {
+                    "rank": 38,
+                    "clan_name": "[\ud83d\udc10] Serendipity XIII",
+                    "score": 92835,
+                    "level": 92835
+                },
+                {
+                    "rank": 39,
+                    "clan_name": "rush fishing",
+                    "score": 91390,
+                    "level": 91390
+                },
+                {
+                    "rank": 40,
+                    "clan_name": "Minji's family at sea",
+                    "score": 91325,
+                    "level": 91325
+                },
+                {
+                    "rank": 41,
+                    "clan_name": "Omnitastical",
+                    "score": 89815,
+                    "level": 89815
+                },
+                {
+                    "rank": 42,
+                    "clan_name": "[F] Foundation",
+                    "score": 88895,
+                    "level": 88895
+                },
+                {
+                    "rank": 43,
+                    "clan_name": "Pemancing mania",
+                    "score": 85325,
+                    "level": 85325
+                },
+                {
+                    "rank": 44,
+                    "clan_name": "[\ud83d\udd31] Usurper 5",
+                    "score": 85400,
+                    "level": 85400
+                },
+                {
+                    "rank": 45,
+                    "clan_name": "[\ud83d\udc0b] The 15 Fishers",
+                    "score": 84380,
+                    "level": 84380
+                },
+                {
+                    "rank": 46,
+                    "clan_name": "fishy ORB",
+                    "score": 83805,
+                    "level": 83805
+                },
+                {
+                    "rank": 47,
+                    "clan_name": "[\ud83d\udd31] Usurper 10",
+                    "score": 82105,
+                    "level": 82105
+                },
+                {
+                    "rank": 48,
+                    "clan_name": "[\ud83e\udebd] Nemesis II",
+                    "score": 81300,
+                    "level": 81300
+                },
+                {
+                    "rank": 49,
+                    "clan_name": "Tidal",
+                    "score": 75735,
+                    "level": 75735
+                },
+                {
+                    "rank": 50,
+                    "clan_name": "[\ud83d\udd31] Poseidons Army",
+                    "score": 74005,
+                    "level": 74005
+                },
+                {
+                    "rank": 51,
+                    "clan_name": "[\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd] Mael Bailly FanClub",
+                    "score": 69590,
+                    "level": 69590
+                },
+                {
+                    "rank": 52,
+                    "clan_name": "COD GODS",
+                    "score": 70635,
+                    "level": 70635
+                },
+                {
+                    "rank": 53,
+                    "clan_name": "totosinti",
+                    "score": 68955,
+                    "level": 68955
+                },
+                {
+                    "rank": 54,
+                    "clan_name": "Alleycats",
+                    "score": 68525,
+                    "level": 68525
+                },
+                {
+                    "rank": 55,
+                    "clan_name": "Hideaway Fishing",
+                    "score": 67340,
+                    "level": 67340
+                },
+                {
+                    "rank": 56,
+                    "clan_name": "[JFish] John Fishing Co. Ltd.",
+                    "score": 66060,
+                    "level": 66060
+                },
+                {
+                    "rank": 57,
+                    "clan_name": "Bnuuy rabbit",
+                    "score": 66000,
+                    "level": 66000
+                },
+                {
+                    "rank": 58,
+                    "clan_name": "Wet Trout",
+                    "score": 65270,
+                    "level": 65270
+                },
+                {
+                    "rank": 59,
+                    "clan_name": "[\ud83c\udf53\ud83c\udf75] Strawberry Matcha",
+                    "score": 63905,
+                    "level": 63905
+                },
+                {
+                    "rank": 60,
+                    "clan_name": "life of no sleep",
+                    "score": 63670,
+                    "level": 63670
+                },
+                {
+                    "rank": 61,
+                    "clan_name": "Bananabois",
+                    "score": 60625,
+                    "level": 60625
+                },
+                {
+                    "rank": 62,
+                    "clan_name": "[Div12] Kuillfish",
+                    "score": 60430,
+                    "level": 60430
+                },
+                {
+                    "rank": 63,
+                    "clan_name": "[\ud83c\udfa3] The 15 Fishers II",
+                    "score": 59395,
+                    "level": 59395
+                },
+                {
+                    "rank": 64,
+                    "clan_name": "Phantom Masque",
+                    "score": 59245,
+                    "level": 59245
+                },
+                {
+                    "rank": 65,
+                    "clan_name": "Catfishers Co. Inc LLC LTD C TM",
+                    "score": 57385,
+                    "level": 57385
+                },
+                {
+                    "rank": 66,
+                    "clan_name": "Bahagia",
+                    "score": 56870,
+                    "level": 56870
+                },
+                {
+                    "rank": 67,
+                    "clan_name": "[FAME] Deal With It",
+                    "score": 55105,
+                    "level": 55105
+                },
+                {
+                    "rank": 68,
+                    "clan_name": "[\ud83d\udc1f\ud83c\udf40] Ikan Hijau",
+                    "score": 54405,
+                    "level": 54405
+                },
+                {
+                    "rank": 69,
+                    "clan_name": "SYN-Torn",
+                    "score": 53730,
+                    "level": 53730
+                },
+                {
+                    "rank": 70,
+                    "clan_name": "[\ud83d\udc10] Serendipity XII",
+                    "score": 53675,
+                    "level": 53675
+                },
+                {
+                    "rank": 71,
+                    "clan_name": "[\ud83d\udd31] Usurper 3",
+                    "score": 53465,
+                    "level": 53465
+                },
+                {
+                    "rank": 72,
+                    "clan_name": "Lovie Clan",
+                    "score": 53850,
+                    "level": 53850
+                },
+                {
+                    "rank": 73,
+                    "clan_name": "[\ud83e\ude78] Acheron",
+                    "score": 52500,
+                    "level": 52500
+                },
+                {
+                    "rank": 74,
+                    "clan_name": "dhruv team",
+                    "score": 52460,
+                    "level": 52460
+                },
+                {
+                    "rank": 75,
+                    "clan_name": "[\ud83d\udc10] Serendipity X",
+                    "score": 51760,
+                    "level": 51760
+                },
+                {
+                    "rank": 76,
+                    "clan_name": "Aurora's Fishing Club",
+                    "score": 51440,
+                    "level": 51440
+                },
+                {
+                    "rank": 77,
+                    "clan_name": "[\u26f1\ufe0f] Slackers",
+                    "score": 50100,
+                    "level": 50100
+                },
+                {
+                    "rank": 78,
+                    "clan_name": "xrs fishing gang",
+                    "score": 49180,
+                    "level": 49180
+                },
+                {
+                    "rank": 79,
+                    "clan_name": "Gamer Club Fishing",
+                    "score": 49405,
+                    "level": 49405
+                },
+                {
+                    "rank": 80,
+                    "clan_name": "[\ud83c\udfd6\ufe0f] Slackers Lite",
+                    "score": 47525,
+                    "level": 47525
+                },
+                {
+                    "rank": 81,
+                    "clan_name": "[CYNOV] Keplerian Fishermen",
+                    "score": 47020,
+                    "level": 47020
+                },
+                {
+                    "rank": 82,
+                    "clan_name": "[YT] PPGtv",
+                    "score": 46475,
+                    "level": 46475
+                },
+                {
+                    "rank": 83,
+                    "clan_name": "[\ud83d\udc10] Serendipity VIII",
+                    "score": 46690,
+                    "level": 46690
+                },
+                {
+                    "rank": 84,
+                    "clan_name": "ISDP^",
+                    "score": 46870,
+                    "level": 46870
+                },
+                {
+                    "rank": 85,
+                    "clan_name": "weeklies.enigmatics.org",
+                    "score": 46695,
+                    "level": 46695
+                },
+                {
+                    "rank": 86,
+                    "clan_name": "Ain",
+                    "score": 46165,
+                    "level": 46165
+                },
+                {
+                    "rank": 87,
+                    "clan_name": "Fischi Fischi",
+                    "score": 44210,
+                    "level": 44210
+                },
+                {
+                    "rank": 88,
+                    "clan_name": "Big Bass Brothers",
+                    "score": 41965,
+                    "level": 41965
+                },
+                {
+                    "rank": 89,
+                    "clan_name": "[\ud83d\udd31] Usurper 9",
+                    "score": 41770,
+                    "level": 41770
+                },
+                {
+                    "rank": 90,
+                    "clan_name": "Unicorns rule",
+                    "score": 41505,
+                    "level": 41505
+                },
+                {
+                    "rank": 91,
+                    "clan_name": "Gefilte Fishermen",
+                    "score": 41885,
+                    "level": 41885
+                },
+                {
+                    "rank": 92,
+                    "clan_name": "Mori",
+                    "score": 41425,
+                    "level": 41425
+                },
+                {
+                    "rank": 93,
+                    "clan_name": "calamity fishers lounge",
+                    "score": 41285,
+                    "level": 41285
+                },
+                {
+                    "rank": 94,
+                    "clan_name": "Dirty Sprite",
+                    "score": 41230,
+                    "level": 41230
+                },
+                {
+                    "rank": 95,
+                    "clan_name": "[\u2681] im solo btw",
+                    "score": 40105,
+                    "level": 40105
+                },
+                {
+                    "rank": 96,
+                    "clan_name": "poisseux",
+                    "score": 39775,
+                    "level": 39775
+                },
+                {
+                    "rank": 97,
+                    "clan_name": "TreeHouse Trunk Fishers",
+                    "score": 39230,
+                    "level": 39230
+                },
+                {
+                    "rank": 98,
+                    "clan_name": "Abuabuss",
+                    "score": 39185,
+                    "level": 39185
+                },
+                {
+                    "rank": 99,
+                    "clan_name": "FishMu",
+                    "score": 39725,
+                    "level": 39725
+                },
+                {
+                    "rank": 100,
+                    "clan_name": "[GZFP] Game Zone Fisherpersons",
+                    "score": 38820,
+                    "level": 38820
+                }
+            ]
         }
     ],
     "levels": [
